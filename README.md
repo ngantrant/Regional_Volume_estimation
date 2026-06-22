@@ -4,6 +4,7 @@ For using the integration between the Yolo and SAM2, please download the model s
 
 Project Structure
 │
+
 ├── run/
 │   └── Contains the pretrained YOLO model and scripts used for lung detection and segmentation.
 │
