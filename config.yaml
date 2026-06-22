@@ -1,0 +1,9 @@
+path: E:\Alex-programing\programing\4D-Lung-Recontruction\image-segmentation-yolov8-main\dataset_for_train
+train: images/train
+val: images/val  
+
+nc: 1
+names:
+- lung
+
+   
